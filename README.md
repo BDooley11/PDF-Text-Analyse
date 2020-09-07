@@ -1,1 +1,2 @@
-# PDF-Text-Analyse
+Script which takes an input of a pdf url, downloads it and allows you to perform some analysis on the text contained in it. 
+An example usage is accessing a political manifesto pdf and using the dispersion plot feature to see how often words such as 'health', 'housing' and 'tax' are contained. By comparing the manifesto of a few different political parties or candidates you can infer which causes are most important to each. 
